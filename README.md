@@ -11,9 +11,9 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository i
 - [Stacks](Data Structures/Stacks)
 - [Queues](Data Structures/Queues)
 - [Trees](Data Structures/Trees)
-- [Hash Tables](Data Structures/Hash Tables)
 - [Graphs](Data Structures/Graphs)
 - [Heaps](Data Structures/Heaps)
+- [Hash Tables](Data Structures/Hash Tables)
 
 ### Algorithm Design
 
