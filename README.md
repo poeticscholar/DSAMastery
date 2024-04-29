@@ -23,6 +23,7 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository i
 - [Greedy Algorithms](Algorithm Design/Greedy Algorithms)
 - [Divide and Conquer](Algorithm Design/Divide and Conquer)
 - [Backtracking](Algorithm Design/Backtracking)
+- [Brute Force](Algorithm Design/Brute Force)
 
 ## How to Use This Repository
 
